@@ -82,7 +82,6 @@ WOYESA<span className="text-white">.</span> </a>
   <img
     src="/profile.png"
     alt="Woyesa Abdo"
-    className="h-full w-full object-cover"
     className="h-full w-full object-cover animate-pulse"
 
   />
